@@ -9,7 +9,7 @@ This is a fully responsive, single-page static website built for **The Pie Nook*
 ## 🌐 Live Site
 
 Visit the live site here:  
-👉 [https://YOUR-CLOUDFRONT-ID.cloudfront.net](https://YOUR-CLOUDFRONT-ID.cloudfront.net)
+👉 [https://YOUR-CLOUDFRONT-ID.cloudfront.net]([https://YOUR-CLOUDFRONT-ID.cloudfront.net](https://d2l0sg28sa7dq4.cloudfront.net))
 
 ---
 

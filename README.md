@@ -2,14 +2,12 @@
 
 This is a fully responsive, single-page static website built for **The Pie Nook**, a handmade pie business. The site is hosted on **Amazon S3** and delivered securely worldwide using **Amazon CloudFront (CDN)**.
 
-![screenshot](screenshot.png)
-
 ---
 
 ## 🌐 Live Site
 
 Visit the live site here:  
-👉 [https://YOUR-CLOUDFRONT-ID.cloudfront.net]([https://YOUR-CLOUDFRONT-ID.cloudfront.net](https://d2l0sg28sa7dq4.cloudfront.net))
+👉 [https://d2l0sg28sa7dq4.cloudfront.net](https://d2l0sg28sa7dq4.cloudfront.net)
 
 ---
 
@@ -34,7 +32,7 @@ Visit the live site here:
 
 ## 📸 Screenshots
 
-> (You can add screenshots of your live site or AWS console here if you'd like.)
+> (Optional: Add a screenshot of the live site or AWS console and upload it as `screenshot.png`)
 
 ---
 
@@ -50,3 +48,4 @@ Visit the live site here:
 ## ✉️ Contact
 
 For questions or collaborations: [thepienook@gmail.com](mailto:thepienook@gmail.com)
+
